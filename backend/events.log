@@ -1,0 +1,739 @@
+2025-03-27 21:33:47.837537		WARNING		Missing param > PATH_DIR
+2025-03-27 21:33:47.841404		WARNING		Missing param > MODEL_ID
+2025-03-27 21:33:47.848731		WARNING		Missing param > MODEL_NAME
+2025-03-27 21:33:47.853570		WARNING		Missing param > QUESTION
+2025-03-27 21:34:28.850747		WARNING		Missing param > PATH_DIR
+2025-03-27 21:34:28.853731		WARNING		Missing param > MODEL_ID
+2025-03-27 21:34:28.857093		WARNING		Missing param > MODEL_NAME
+2025-03-27 21:34:28.860095		WARNING		Missing param > QUESTION
+2025-03-27 21:34:32.131966		WARNING		Missing param > PATH_DIR
+2025-03-27 21:34:32.137082		WARNING		Missing param > MODEL_ID
+2025-03-27 21:34:32.141082		WARNING		Missing param > MODEL_NAME
+2025-03-27 21:34:32.145064		WARNING		Missing param > QUESTION
+2025-03-27 21:34:33.201339		WARNING		Missing param > PATH_DIR
+2025-03-27 21:34:33.205337		WARNING		Missing param > MODEL_ID
+2025-03-27 21:34:33.209352		WARNING		Missing param > MODEL_NAME
+2025-03-27 21:34:33.213350		WARNING		Missing param > QUESTION
+2025-03-27 21:34:44.507807		WARNING		Missing param > PATH_DIR
+2025-03-27 21:34:44.511807		WARNING		Missing param > MODEL_ID
+2025-03-27 21:34:44.515806		WARNING		Missing param > MODEL_NAME
+2025-03-27 21:34:44.518821		WARNING		Missing param > QUESTION
+2025-03-28 08:58:57.083847		WARNING		Missing param > PATH_DIR
+2025-03-28 08:58:57.083847		WARNING		Missing param > MODEL_ID
+2025-03-28 08:58:57.083847		WARNING		Missing param > MODEL_NAME
+2025-03-28 08:58:57.083847		WARNING		Missing param > QUESTION
+2025-03-28 09:52:37.340367		WARNING		Missing param > PATH_DIR
+2025-03-28 09:52:37.345362		WARNING		Missing param > MODEL_ID
+2025-03-28 09:52:37.348882		WARNING		Missing param > MODEL_NAME
+2025-03-28 09:52:37.354177		WARNING		Missing param > QUESTION
+2025-03-28 09:52:45.655626		WARNING		Missing param > PATH_DIR
+2025-03-28 09:52:45.661699		WARNING		Missing param > MODEL_ID
+2025-03-28 09:52:45.664378		WARNING		Missing param > MODEL_NAME
+2025-03-28 09:52:45.671136		WARNING		Missing param > QUESTION
+2025-03-28 09:52:46.821031		WARNING		Missing param > PATH_DIR
+2025-03-28 09:52:46.828184		WARNING		Missing param > MODEL_ID
+2025-03-28 09:52:46.833226		WARNING		Missing param > MODEL_NAME
+2025-03-28 09:52:46.833226		WARNING		Missing param > QUESTION
+2025-03-28 09:53:30.000652		WARNING		Missing param > PATH_DIR
+2025-03-28 09:53:30.000652		WARNING		Missing param > MODEL_ID
+2025-03-28 09:53:30.012347		WARNING		Missing param > MODEL_NAME
+2025-03-28 09:53:30.014730		WARNING		Missing param > QUESTION
+2025-03-28 09:53:48.031008		WARNING		Missing param > PATH_DIR
+2025-03-28 09:53:48.045062		WARNING		Missing param > MODEL_ID
+2025-03-28 09:53:48.048046		WARNING		Missing param > MODEL_NAME
+2025-03-28 09:53:48.049914		WARNING		Missing param > QUESTION
+2025-03-28 09:53:58.698018		WARNING		Missing param > PATH_DIR
+2025-03-28 09:53:58.700572		WARNING		Missing param > MODEL_ID
+2025-03-28 09:53:58.704681		WARNING		Missing param > MODEL_NAME
+2025-03-28 09:53:58.708822		WARNING		Missing param > QUESTION
+2025-03-28 09:56:07.075439		WARNING		Missing param > PATH_DIR
+2025-03-28 09:56:07.075439		WARNING		Missing param > MODEL_ID
+2025-03-28 09:56:07.075439		WARNING		Missing param > MODEL_NAME
+2025-03-28 09:56:07.075439		WARNING		Missing param > QUESTION
+2025-03-28 09:56:12.312019		WARNING		Missing param > PATH_DIR
+2025-03-28 09:56:12.312019		WARNING		Missing param > MODEL_ID
+2025-03-28 09:56:12.320280		WARNING		Missing param > MODEL_NAME
+2025-03-28 09:56:12.324121		WARNING		Missing param > QUESTION
+2025-03-28 09:56:29.932402		WARNING		Missing param > PATH_DIR
+2025-03-28 09:56:29.934673		WARNING		Missing param > MODEL_ID
+2025-03-28 09:56:29.937774		WARNING		Missing param > MODEL_NAME
+2025-03-28 09:56:29.937774		WARNING		Missing param > QUESTION
+2025-03-28 10:04:17.111101		WARNING		Datatype error > Requested: <class 'int'> | Recived: <class 'str'>
+2025-03-28 10:04:17.115380		WARNING		Datatype error > Requested: <class 'int'> | Recived: <class 'str'>
+2025-03-28 10:04:17.120103		WARNING		Datatype error > Requested: <class 'int'> | Recived: <class 'str'>
+2025-03-30 13:59:41.525029		WARNING		Datatype error > Requested: <class 'int'> | Recived: <class 'str'>
+2025-03-30 14:45:44.860560		INFO		127.0.0.1
+2025-03-30 14:45:44.863553		INFO		http://127.0.0.1:8000/api/embedding/
+2025-03-30 14:47:46.982853		INFO		127.0.0.1
+2025-03-30 14:47:46.984746		INFO		http://127.0.0.1:8000/api/logs/
+2025-03-30 14:48:11.097875		INFO		127.0.0.1
+2025-03-30 14:48:11.098875		INFO		http://127.0.0.1:8000/api/logs/
+2025-03-30 14:48:45.462285		INFO		127.0.0.1
+2025-03-30 14:48:45.468281		INFO		http://127.0.0.1:8000/api/logs/
+2025-03-30 14:48:50.437937		INFO		127.0.0.1
+2025-03-30 14:48:50.444942		INFO		http://127.0.0.1:8000/api/logs/
+2025-03-30 14:49:40.191022		INFO		127.0.0.1
+2025-03-30 14:49:40.192482		INFO		http://127.0.0.1:8000/api/info/
+2025-03-30 14:49:42.978774		INFO		127.0.0.1
+2025-03-30 14:49:42.981777		INFO		http://127.0.0.1:8000/api/logs/
+2025-03-30 15:09:10.538184		WARNING		Missing param > MODEL_NAME
+2025-03-30 15:09:10.538184		WARNING		Missing param > INPUT
+2025-03-30 15:09:10.538184		INFO		127.0.0.1
+2025-03-30 15:09:10.538184		INFO		http://127.0.0.1:8000/api/chat
+2025-03-30 15:10:15.730103		INFO		127.0.0.1
+2025-03-30 15:10:15.731947		INFO		http://127.0.0.1:8000/api/models
+2025-03-30 15:10:23.614185		INFO		127.0.0.1
+2025-03-30 15:10:23.614185		INFO		http://127.0.0.1:8000/api/logs
+2025-03-30 15:10:43.862331		INFO		127.0.0.1
+2025-03-30 15:10:43.862331		INFO		http://127.0.0.1:8000/api/embedding
+2025-03-30 15:10:49.388431		INFO		127.0.0.1
+2025-03-30 15:10:49.390444		INFO		http://127.0.0.1:8000/api/info
+2025-03-30 15:12:36.587521		FATAL		Traceback (most recent call last):
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\views.py", line 107, in chat
+    return Response(models.ask(params['MODEL_NAME']["VALUE"], params['INPUT']["VALUE"]))
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\services\models.py", line 10, in ask
+    return R
+NameError: name 'R' is not defined
+
+2025-03-30 15:12:36.618713		INFO		127.0.0.1
+2025-03-30 15:12:36.618713		INFO		http://127.0.0.1:8000/api/chat
+2025-03-30 15:12:59.651882		INFO		127.0.0.1
+2025-03-30 15:12:59.651882		INFO		http://127.0.0.1:8000/api/logs
+2025-03-30 15:13:36.615904		INFO		127.0.0.1
+2025-03-30 15:13:36.615904		INFO		http://127.0.0.1:8000/api/chat
+2025-03-30 15:41:38.471327		INFO		127.0.0.1
+2025-03-30 15:41:38.473222		INFO		http://127.0.0.1:8000/api/chat
+2025-03-30 15:42:19.442769		INFO		127.0.0.1
+2025-03-30 15:42:19.442769		INFO		http://127.0.0.1:8000/api/chat
+2025-03-30 15:52:54.100630		INFO		127.0.0.1
+2025-03-30 15:52:54.102642		INFO		http://127.0.0.1:8000/api/chat
+2025-03-30 15:53:56.220904		INFO		127.0.0.1
+2025-03-30 15:53:56.220904		INFO		http://127.0.0.1:8000/api/chat
+2025-03-30 17:29:08.151500		FATAL		Traceback (most recent call last):
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\views.py", line 135, in agent_chat
+    return Response(models.agent(params['MODEL_NAME']["VALUE"], params['TOOLS']["VALUE"], params['INPUT']["VALUE"]))
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\services\models.py", line 67, in agent
+    agent = create_react_agent(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\react\agent.py", line 123, in create_react_agent
+    raise ValueError(f"Prompt missing required variables: {missing_vars}")
+ValueError: Prompt missing required variables: {'agent_scratchpad'}
+
+2025-03-30 17:29:08.154436		INFO		127.0.0.1
+2025-03-30 17:29:08.154436		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 17:29:22.357301		INFO		127.0.0.1
+2025-03-30 17:29:22.357301		INFO		http://127.0.0.1:8000/api/logs
+2025-03-30 17:30:12.607214		INFO		127.0.0.1
+2025-03-30 17:30:12.610209		INFO		http://127.0.0.1:8000/api/logs
+2025-03-30 17:32:43.219325		INFO		127.0.0.1
+2025-03-30 17:32:43.226182		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 17:36:31.269426		FATAL		Traceback (most recent call last):
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\views.py", line 135, in agent_chat
+    return Response(models.agent(params['MODEL_NAME']["VALUE"], params['TOOLS']["VALUE"], params['INPUT']["VALUE"]))
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\services\models.py", line 86, in agent
+    response = agent_executor.invoke({'input': message})
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\chains\base.py", line 170, in invoke
+    raise e
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\chains\base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1624, in _call
+    next_step_output = self._take_next_step(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in _take_next_step
+    [
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in <listcomp>
+    [
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1415, in _iter_next_step
+    yield self._perform_agent_action(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1437, in _perform_agent_action
+    observation = tool.run(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\tools\base.py", line 763, in run
+    raise error_to_raise
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\tools\base.py", line 732, in run
+    response = context.run(self._run, *tool_args, **tool_kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\tools\simple.py", line 100, in _run
+    return self.func(*args, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\utils\cmd.py", line 5, in runCMD
+    process = subprocess.Popen(
+  File "C:\Python310\lib\subprocess.py", line 966, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Python310\lib\subprocess.py", line 1435, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+FileNotFoundError: [WinError 2] O sistema não pode encontrar o arquivo especificado
+
+2025-03-30 17:36:31.269426		INFO		127.0.0.1
+2025-03-30 17:36:31.269426		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 17:40:13.090678		INFO		127.0.0.1
+2025-03-30 17:40:13.092684		INFO		http://127.0.0.1:8000/api/logs
+2025-03-30 17:41:13.686036		INFO		127.0.0.1
+2025-03-30 17:41:13.691111		INFO		http://127.0.0.1:8000/api/logs
+2025-03-30 17:43:50.902425		FATAL		Traceback (most recent call last):
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\views.py", line 135, in agent_chat
+    return Response(models.agent(params['MODEL_NAME']["VALUE"], params['TOOLS']["VALUE"], params['INPUT']["VALUE"]))
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\services\models.py", line 38, in agent
+    func=cmd.runCMD,
+AttributeError: module 'api.utils.cmd' has no attribute 'runCMD'
+
+2025-03-30 17:43:50.907243		INFO		127.0.0.1
+2025-03-30 17:43:50.909239		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 17:43:53.432370		FATAL		Traceback (most recent call last):
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\views.py", line 135, in agent_chat
+    return Response(models.agent(params['MODEL_NAME']["VALUE"], params['TOOLS']["VALUE"], params['INPUT']["VALUE"]))
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\services\models.py", line 38, in agent
+    func=cmd.runCMD,
+AttributeError: module 'api.utils.cmd' has no attribute 'runCMD'
+
+2025-03-30 17:43:53.438531		INFO		127.0.0.1
+2025-03-30 17:43:53.438531		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 17:44:09.994521		INFO		127.0.0.1
+2025-03-30 17:44:09.997420		INFO		http://127.0.0.1:8000/api/logs
+2025-03-30 17:54:07.750345		FATAL		Traceback (most recent call last):
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\views.py", line 135, in agent_chat
+    return Response(models.agent(params['MODEL_NAME']["VALUE"], params['TOOLS']["VALUE"], params['INPUT']["VALUE"]))
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\services\models.py", line 93, in agent
+    response = agent_executor.invoke({'input': message})
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\chains\base.py", line 170, in invoke
+    raise e
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\chains\base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1624, in _call
+    next_step_output = self._take_next_step(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in _take_next_step
+    [
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in <listcomp>
+    [
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1358, in _iter_next_step
+    output = self._action_agent.plan(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 465, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3409, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3396, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 2199, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)  # type: ignore
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3359, in _transform
+    yield from final_pipeline
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1413, in transform
+    for ichunk in input:
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 5565, in transform
+    yield from self.bound.transform(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1413, in transform
+    for ichunk in input:
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1431, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1000, in stream
+    yield self.invoke(input, config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 210, in invoke
+    return self._call_with_config(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1925, in _call_with_config
+    context.run(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\config.py", line 430, in call_func_with_variable_args
+    return func(input, **kwargs)  # type: ignore[call-arg]
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 184, in _format_prompt_with_error_handling
+    _inner_input = self._validate_input(inner_input)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 178, in _validate_input
+    raise KeyError(
+KeyError: "Input to PromptTemplate is missing variables {'final_answer', 'error_message', 'error_detected'}.  Expected: ['agent_scratchpad', 'error_detected', 'error_message', 'final_answer', 'input'] Received: ['input', 'intermediate_steps', 'agent_scratchpad']\nNote: if you intended {final_answer} to be part of the string and not a variable, please escape it with double curly braces like: '{{final_answer}}'.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_PROMPT_INPUT "
+
+2025-03-30 17:54:07.762917		INFO		127.0.0.1
+2025-03-30 17:54:07.765930		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 17:54:10.114187		FATAL		Traceback (most recent call last):
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\views.py", line 135, in agent_chat
+    return Response(models.agent(params['MODEL_NAME']["VALUE"], params['TOOLS']["VALUE"], params['INPUT']["VALUE"]))
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\services\models.py", line 93, in agent
+    response = agent_executor.invoke({'input': message})
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\chains\base.py", line 170, in invoke
+    raise e
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\chains\base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1624, in _call
+    next_step_output = self._take_next_step(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in _take_next_step
+    [
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in <listcomp>
+    [
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1358, in _iter_next_step
+    output = self._action_agent.plan(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 465, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3409, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3396, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 2199, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)  # type: ignore
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3359, in _transform
+    yield from final_pipeline
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1413, in transform
+    for ichunk in input:
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 5565, in transform
+    yield from self.bound.transform(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1413, in transform
+    for ichunk in input:
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1431, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1000, in stream
+    yield self.invoke(input, config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 210, in invoke
+    return self._call_with_config(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1925, in _call_with_config
+    context.run(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\config.py", line 430, in call_func_with_variable_args
+    return func(input, **kwargs)  # type: ignore[call-arg]
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 184, in _format_prompt_with_error_handling
+    _inner_input = self._validate_input(inner_input)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 178, in _validate_input
+    raise KeyError(
+KeyError: "Input to PromptTemplate is missing variables {'final_answer', 'error_message', 'error_detected'}.  Expected: ['agent_scratchpad', 'error_detected', 'error_message', 'final_answer', 'input'] Received: ['input', 'intermediate_steps', 'agent_scratchpad']\nNote: if you intended {final_answer} to be part of the string and not a variable, please escape it with double curly braces like: '{{final_answer}}'.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_PROMPT_INPUT "
+
+2025-03-30 17:54:10.124549		INFO		127.0.0.1
+2025-03-30 17:54:10.126853		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 17:54:11.606954		FATAL		Traceback (most recent call last):
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\views.py", line 135, in agent_chat
+    return Response(models.agent(params['MODEL_NAME']["VALUE"], params['TOOLS']["VALUE"], params['INPUT']["VALUE"]))
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\services\models.py", line 93, in agent
+    response = agent_executor.invoke({'input': message})
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\chains\base.py", line 170, in invoke
+    raise e
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\chains\base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1624, in _call
+    next_step_output = self._take_next_step(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in _take_next_step
+    [
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in <listcomp>
+    [
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1358, in _iter_next_step
+    output = self._action_agent.plan(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 465, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3409, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3396, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 2199, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)  # type: ignore
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3359, in _transform
+    yield from final_pipeline
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1413, in transform
+    for ichunk in input:
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 5565, in transform
+    yield from self.bound.transform(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1413, in transform
+    for ichunk in input:
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1431, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1000, in stream
+    yield self.invoke(input, config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 210, in invoke
+    return self._call_with_config(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1925, in _call_with_config
+    context.run(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\config.py", line 430, in call_func_with_variable_args
+    return func(input, **kwargs)  # type: ignore[call-arg]
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 184, in _format_prompt_with_error_handling
+    _inner_input = self._validate_input(inner_input)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 178, in _validate_input
+    raise KeyError(
+KeyError: "Input to PromptTemplate is missing variables {'final_answer', 'error_message', 'error_detected'}.  Expected: ['agent_scratchpad', 'error_detected', 'error_message', 'final_answer', 'input'] Received: ['input', 'intermediate_steps', 'agent_scratchpad']\nNote: if you intended {final_answer} to be part of the string and not a variable, please escape it with double curly braces like: '{{final_answer}}'.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_PROMPT_INPUT "
+
+2025-03-30 17:54:11.613075		INFO		127.0.0.1
+2025-03-30 17:54:11.618635		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 17:54:20.588339		FATAL		Traceback (most recent call last):
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\views.py", line 135, in agent_chat
+    return Response(models.agent(params['MODEL_NAME']["VALUE"], params['TOOLS']["VALUE"], params['INPUT']["VALUE"]))
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\services\models.py", line 93, in agent
+    response = agent_executor.invoke({'input': message})
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\chains\base.py", line 170, in invoke
+    raise e
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\chains\base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1624, in _call
+    next_step_output = self._take_next_step(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in _take_next_step
+    [
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in <listcomp>
+    [
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1358, in _iter_next_step
+    output = self._action_agent.plan(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 465, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3409, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3396, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 2199, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)  # type: ignore
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3359, in _transform
+    yield from final_pipeline
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1413, in transform
+    for ichunk in input:
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 5565, in transform
+    yield from self.bound.transform(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1413, in transform
+    for ichunk in input:
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1431, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1000, in stream
+    yield self.invoke(input, config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 210, in invoke
+    return self._call_with_config(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1925, in _call_with_config
+    context.run(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\config.py", line 430, in call_func_with_variable_args
+    return func(input, **kwargs)  # type: ignore[call-arg]
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 184, in _format_prompt_with_error_handling
+    _inner_input = self._validate_input(inner_input)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 178, in _validate_input
+    raise KeyError(
+KeyError: "Input to PromptTemplate is missing variables {'error_message', 'error_detected', 'final_answer'}.  Expected: ['agent_scratchpad', 'error_detected', 'error_message', 'final_answer', 'input'] Received: ['input', 'intermediate_steps', 'agent_scratchpad']\nNote: if you intended {error_message} to be part of the string and not a variable, please escape it with double curly braces like: '{{error_message}}'.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_PROMPT_INPUT "
+
+2025-03-30 17:54:20.595333		INFO		127.0.0.1
+2025-03-30 17:54:20.598911		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 17:55:02.167350		INFO		127.0.0.1
+2025-03-30 17:55:02.171909		INFO		http://127.0.0.1:8000/api/logs
+2025-03-30 17:55:38.951714		FATAL		Traceback (most recent call last):
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\views.py", line 135, in agent_chat
+    return Response(models.agent(params['MODEL_NAME']["VALUE"], params['TOOLS']["VALUE"], params['INPUT']["VALUE"]))
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\services\models.py", line 93, in agent
+    response = agent_executor.invoke({'input': message})
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\chains\base.py", line 170, in invoke
+    raise e
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\chains\base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1624, in _call
+    next_step_output = self._take_next_step(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in _take_next_step
+    [
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in <listcomp>
+    [
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1358, in _iter_next_step
+    output = self._action_agent.plan(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 465, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3409, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3396, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 2199, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)  # type: ignore
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3359, in _transform
+    yield from final_pipeline
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1413, in transform
+    for ichunk in input:
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 5565, in transform
+    yield from self.bound.transform(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1413, in transform
+    for ichunk in input:
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1431, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1000, in stream
+    yield self.invoke(input, config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 210, in invoke
+    return self._call_with_config(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1925, in _call_with_config
+    context.run(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\config.py", line 430, in call_func_with_variable_args
+    return func(input, **kwargs)  # type: ignore[call-arg]
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 184, in _format_prompt_with_error_handling
+    _inner_input = self._validate_input(inner_input)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 178, in _validate_input
+    raise KeyError(
+KeyError: "Input to PromptTemplate is missing variables {'final_answer', 'error_message', 'error_detected'}.  Expected: ['agent_scratchpad', 'error_detected', 'error_message', 'final_answer', 'input'] Received: ['input', 'intermediate_steps', 'agent_scratchpad']\nNote: if you intended {final_answer} to be part of the string and not a variable, please escape it with double curly braces like: '{{final_answer}}'.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_PROMPT_INPUT "
+
+2025-03-30 17:55:38.961011		INFO		127.0.0.1
+2025-03-30 17:55:38.963027		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 17:55:42.905411		INFO		127.0.0.1
+2025-03-30 17:55:42.905411		INFO		http://127.0.0.1:8000/api/logs
+2025-03-30 17:57:26.902936		FATAL		Traceback (most recent call last):
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\views.py", line 135, in agent_chat
+    return Response(models.agent(params['MODEL_NAME']["VALUE"], params['TOOLS']["VALUE"], params['INPUT']["VALUE"]))
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\services\models.py", line 94, in agent
+    response = agent_executor.invoke({'input': message})
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\chains\base.py", line 170, in invoke
+    raise e
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\chains\base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1624, in _call
+    next_step_output = self._take_next_step(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in _take_next_step
+    [
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in <listcomp>
+    [
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1358, in _iter_next_step
+    output = self._action_agent.plan(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 465, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3409, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3396, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 2199, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)  # type: ignore
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3359, in _transform
+    yield from final_pipeline
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1413, in transform
+    for ichunk in input:
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 5565, in transform
+    yield from self.bound.transform(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1413, in transform
+    for ichunk in input:
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1431, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1000, in stream
+    yield self.invoke(input, config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 210, in invoke
+    return self._call_with_config(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1925, in _call_with_config
+    context.run(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\config.py", line 430, in call_func_with_variable_args
+    return func(input, **kwargs)  # type: ignore[call-arg]
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 184, in _format_prompt_with_error_handling
+    _inner_input = self._validate_input(inner_input)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 178, in _validate_input
+    raise KeyError(
+KeyError: "Input to PromptTemplate is missing variables {'final_answer', 'error_message', 'error_detected'}.  Expected: ['agent_scratchpad', 'error_detected', 'error_message', 'final_answer', 'input'] Received: ['input', 'intermediate_steps', 'agent_scratchpad']\nNote: if you intended {final_answer} to be part of the string and not a variable, please escape it with double curly braces like: '{{final_answer}}'.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_PROMPT_INPUT "
+
+2025-03-30 17:57:26.907933		INFO		127.0.0.1
+2025-03-30 17:57:26.911943		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 17:57:48.097003		FATAL		Traceback (most recent call last):
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\views.py", line 135, in agent_chat
+    return Response(models.agent(params['MODEL_NAME']["VALUE"], params['TOOLS']["VALUE"], params['INPUT']["VALUE"]))
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\services\models.py", line 94, in agent
+    response = agent_executor.invoke({'input': message})
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\chains\base.py", line 170, in invoke
+    raise e
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\chains\base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1624, in _call
+    next_step_output = self._take_next_step(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in _take_next_step
+    [
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in <listcomp>
+    [
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1358, in _iter_next_step
+    output = self._action_agent.plan(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 465, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3409, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3396, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 2199, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)  # type: ignore
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3359, in _transform
+    yield from final_pipeline
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1413, in transform
+    for ichunk in input:
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 5565, in transform
+    yield from self.bound.transform(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1413, in transform
+    for ichunk in input:
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1431, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1000, in stream
+    yield self.invoke(input, config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 210, in invoke
+    return self._call_with_config(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1925, in _call_with_config
+    context.run(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\config.py", line 430, in call_func_with_variable_args
+    return func(input, **kwargs)  # type: ignore[call-arg]
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 184, in _format_prompt_with_error_handling
+    _inner_input = self._validate_input(inner_input)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 178, in _validate_input
+    raise KeyError(
+KeyError: "Input to PromptTemplate is missing variables {'final_answer', 'error_detected', 'error_message'}.  Expected: ['agent_scratchpad', 'error_detected', 'error_message', 'final_answer', 'input'] Received: ['input', 'intermediate_steps', 'agent_scratchpad']\nNote: if you intended {final_answer} to be part of the string and not a variable, please escape it with double curly braces like: '{{final_answer}}'.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_PROMPT_INPUT "
+
+2025-03-30 17:57:48.109266		INFO		127.0.0.1
+2025-03-30 17:57:48.109266		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 17:57:57.578717		INFO		127.0.0.1
+2025-03-30 17:57:57.578717		INFO		http://127.0.0.1:8000/api/logs
+2025-03-30 17:58:34.361565		FATAL		Traceback (most recent call last):
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\views.py", line 135, in agent_chat
+    return Response(models.agent(params['MODEL_NAME']["VALUE"], params['TOOLS']["VALUE"], params['INPUT']["VALUE"]))
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\services\models.py", line 94, in agent
+    response = agent_executor.invoke({'input': message})
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\chains\base.py", line 170, in invoke
+    raise e
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\chains\base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1624, in _call
+    next_step_output = self._take_next_step(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in _take_next_step
+    [
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in <listcomp>
+    [
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1358, in _iter_next_step
+    output = self._action_agent.plan(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 465, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3409, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3396, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 2199, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)  # type: ignore
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3359, in _transform
+    yield from final_pipeline
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1413, in transform
+    for ichunk in input:
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 5565, in transform
+    yield from self.bound.transform(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1413, in transform
+    for ichunk in input:
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1431, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1000, in stream
+    yield self.invoke(input, config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 210, in invoke
+    return self._call_with_config(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1925, in _call_with_config
+    context.run(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\config.py", line 430, in call_func_with_variable_args
+    return func(input, **kwargs)  # type: ignore[call-arg]
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 184, in _format_prompt_with_error_handling
+    _inner_input = self._validate_input(inner_input)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 178, in _validate_input
+    raise KeyError(
+KeyError: "Input to PromptTemplate is missing variables {'error_message', 'error_detected'}.  Expected: ['agent_scratchpad', 'error_detected', 'error_message', 'input'] Received: ['input', 'intermediate_steps', 'agent_scratchpad']\nNote: if you intended {error_message} to be part of the string and not a variable, please escape it with double curly braces like: '{{error_message}}'.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_PROMPT_INPUT "
+
+2025-03-30 17:58:34.368211		INFO		127.0.0.1
+2025-03-30 17:58:34.374008		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 17:58:38.109349		INFO		127.0.0.1
+2025-03-30 17:58:38.111383		INFO		http://127.0.0.1:8000/api/logs
+2025-03-30 17:59:33.112652		FATAL		Traceback (most recent call last):
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\views.py", line 135, in agent_chat
+    return Response(models.agent(params['MODEL_NAME']["VALUE"], params['TOOLS']["VALUE"], params['INPUT']["VALUE"]))
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\services\models.py", line 92, in agent
+    response = agent_executor.invoke({'input': message})
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\chains\base.py", line 170, in invoke
+    raise e
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\chains\base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1624, in _call
+    next_step_output = self._take_next_step(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in _take_next_step
+    [
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in <listcomp>
+    [
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1358, in _iter_next_step
+    output = self._action_agent.plan(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 465, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3409, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3396, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 2199, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)  # type: ignore
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3359, in _transform
+    yield from final_pipeline
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1413, in transform
+    for ichunk in input:
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 5565, in transform
+    yield from self.bound.transform(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1413, in transform
+    for ichunk in input:
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1431, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1000, in stream
+    yield self.invoke(input, config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 210, in invoke
+    return self._call_with_config(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1925, in _call_with_config
+    context.run(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\config.py", line 430, in call_func_with_variable_args
+    return func(input, **kwargs)  # type: ignore[call-arg]
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 184, in _format_prompt_with_error_handling
+    _inner_input = self._validate_input(inner_input)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 178, in _validate_input
+    raise KeyError(
+KeyError: "Input to PromptTemplate is missing variables {'final_answer'}.  Expected: ['agent_scratchpad', 'final_answer', 'input'] Received: ['input', 'intermediate_steps', 'agent_scratchpad']\nNote: if you intended {final_answer} to be part of the string and not a variable, please escape it with double curly braces like: '{{final_answer}}'.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_PROMPT_INPUT "
+
+2025-03-30 17:59:33.116409		INFO		127.0.0.1
+2025-03-30 17:59:33.118418		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 17:59:36.174030		FATAL		Traceback (most recent call last):
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\views.py", line 135, in agent_chat
+    return Response(models.agent(params['MODEL_NAME']["VALUE"], params['TOOLS']["VALUE"], params['INPUT']["VALUE"]))
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\backend\api\services\models.py", line 92, in agent
+    response = agent_executor.invoke({'input': message})
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\chains\base.py", line 170, in invoke
+    raise e
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\chains\base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1624, in _call
+    next_step_output = self._take_next_step(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in _take_next_step
+    [
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in <listcomp>
+    [
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 1358, in _iter_next_step
+    output = self._action_agent.plan(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain\agents\agent.py", line 465, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3409, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3396, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 2199, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)  # type: ignore
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 3359, in _transform
+    yield from final_pipeline
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1413, in transform
+    for ichunk in input:
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 5565, in transform
+    yield from self.bound.transform(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1413, in transform
+    for ichunk in input:
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1431, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1000, in stream
+    yield self.invoke(input, config, **kwargs)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 210, in invoke
+    return self._call_with_config(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\base.py", line 1925, in _call_with_config
+    context.run(
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\runnables\config.py", line 430, in call_func_with_variable_args
+    return func(input, **kwargs)  # type: ignore[call-arg]
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 184, in _format_prompt_with_error_handling
+    _inner_input = self._validate_input(inner_input)
+  File "C:\cloud\OneDrive - aluno.cefetmg.br\ia\instruct-llm\venv\lib\site-packages\langchain_core\prompts\base.py", line 178, in _validate_input
+    raise KeyError(
+KeyError: "Input to PromptTemplate is missing variables {'final_answer'}.  Expected: ['agent_scratchpad', 'final_answer', 'input'] Received: ['input', 'intermediate_steps', 'agent_scratchpad']\nNote: if you intended {final_answer} to be part of the string and not a variable, please escape it with double curly braces like: '{{final_answer}}'.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_PROMPT_INPUT "
+
+2025-03-30 17:59:36.182028		INFO		127.0.0.1
+2025-03-30 17:59:36.185028		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 17:59:42.495937		INFO		127.0.0.1
+2025-03-30 17:59:42.495937		INFO		http://127.0.0.1:8000/api/logs
+2025-03-30 18:27:37.082579		INFO		127.0.0.1
+2025-03-30 18:27:37.092499		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 18:29:04.134136		INFO		127.0.0.1
+2025-03-30 18:29:04.136138		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 18:33:08.130472		INFO		127.0.0.1
+2025-03-30 18:33:08.136355		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 18:35:48.021986		INFO		127.0.0.1
+2025-03-30 18:35:48.029898		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 18:36:35.949564		INFO		127.0.0.1
+2025-03-30 18:36:35.949564		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 18:37:56.411430		INFO		127.0.0.1
+2025-03-30 18:37:56.411430		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 18:39:37.789988		INFO		127.0.0.1
+2025-03-30 18:39:37.791979		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 18:43:08.719746		INFO		127.0.0.1
+2025-03-30 18:43:08.721613		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 18:46:23.229124		INFO		127.0.0.1
+2025-03-30 18:46:23.235605		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 18:53:07.997468		INFO		127.0.0.1
+2025-03-30 18:53:08.004932		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 18:56:40.827169		INFO		127.0.0.1
+2025-03-30 18:56:40.831794		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 19:05:03.019676		INFO		127.0.0.1
+2025-03-30 19:05:03.027522		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 19:07:30.351339		INFO		127.0.0.1
+2025-03-30 19:07:30.352573		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 19:09:35.094327		INFO		127.0.0.1
+2025-03-30 19:09:35.094327		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 19:11:56.187786		INFO		127.0.0.1
+2025-03-30 19:11:56.187786		INFO		http://127.0.0.1:8000/api/agent
+2025-03-30 19:33:47.749309		INFO		127.0.0.1
+2025-03-30 19:33:47.755309		INFO		http://127.0.0.1:8000/api/agent
