@@ -15,7 +15,7 @@ def ask(modelName, message):
 
     response  = model.invoke(message)
 
-    print(response)
+    #print(response)
 
     return response
 
